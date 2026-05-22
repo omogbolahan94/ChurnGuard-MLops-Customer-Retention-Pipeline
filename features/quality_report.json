@@ -1,0 +1,23 @@
+{
+  "rows": 50000,
+  "churn_rate": 0.07,
+  "null_rates": {
+    "customer_id": 0.0,
+    "signup_date": 0.0,
+    "plan_type": 0.0,
+    "session_duration_sec": 0.0,
+    "pages_viewed": 0.0,
+    "support_tickets": 0.0,
+    "days_inactive": 0.0,
+    "login_count_30d": 0.0,
+    "features_used": 0.0,
+    "churned": 0.0,
+    "engagement_score": 0.0,
+    "risk_score": 0.0,
+    "recency_bucket": 0.0868,
+    "tickets_per_login": 0.0,
+    "feature_created_at": 0.0
+  },
+  "outliers_capped": 486,
+  "nulls_imputed": 1448
+}
