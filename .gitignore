@@ -1,5 +1,17 @@
-.vscode/, .idea/
+.vscode/
+.idea/
 
 venv/
+.venv/
 
 .env
+
+__pycache__/
+*.pyc
+
+mlruns/
+mlflow.db
+
+.ipynb_checkpoints/
+
+models/*.joblib
